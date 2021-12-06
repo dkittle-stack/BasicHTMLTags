@@ -1,0 +1,30 @@
+h1 {
+    color: black;
+    text-align: left;
+    padding-left: 10%;
+    ;
+}
+
+p {
+    text-align: center;
+
+}
+
+div {
+    border: 6px solid black;
+    background-color: silver; margin: 3%;
+
+}
+
+td {
+    text-align: center;
+}
+
+.class {
+    background-color: cornflowerblue;
+    border-radius: 30%;
+    border: 3px solid red;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
